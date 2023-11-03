@@ -1,10 +1,6 @@
-# University of California And
+# University of California and  Committee of Interns and Residents SEIU Healthcare
 
-# Committee of Interns and Residents
-
-# SEIU Healthcare Local 1957 RESIDENT
-
-# PHYSICIANS’ AGREEMENT
+# Local 1957 RESIDENT PHYSICIANS’ AGREEMENT
 
 # July 1, 2022 – June 30, 2025
 
@@ -146,12 +142,10 @@ Agreement.
 
 ### A. DISCRETIONARY EXPENSES
 
-```
 The University shall reimburse Residents for authorized expenses in recognition of educational
 objectives incurred for events or equipment that are not required but may further the
 Resident’s professional development.
 Activities and expenses include but are not limited to:
-```
 
 1. Annual education conference(s) including registration, travel, lodging, food
 2. Textbooks, journals
@@ -161,7 +155,6 @@ Activities and expenses include but are not limited to:
 6. Professional association membership/fees
 7. Computer equipment/software
 
-```
 B. TRAVEL EXPENSES FOR CONFERENCES/PRESENTATIONS
 Residents may request to be reimbursed for reasonable expenses for travel, required materials,
 registration fees, lodging, and food, subject to the University’s travel guidelines, for scholarly
@@ -181,7 +174,6 @@ not the intent of the University to reduce any benefits in place as of the effec
 Agreement. Prior to making any reduction to said benefits, the University shall provide notice
 to the Union prior to implementation; and upon request by the Union, the University shall meet
 and discuss the change.
-```
 
 ## ARTICLE 7 EDUCATIONAL TIME
 
@@ -456,12 +448,9 @@ b. By mutual agreement, the parties may select an arbitrator not included in App
    writing.
 9. The arbitrator, following the close of the record of the hearing, shall consider the evidence
    presented and render a written decision within thirty (30) calendar days of the close of the
-
-```
-record of the hearing. The written decision shall include a brief description of each issue
-under submission, the position of the parties, the findings of facts, the arbitrator’s
-conclusion(s) as to the violation of the agreement, if any, and, where appropriate, a remedy.
-```
+   record of the hearing. The written decision shall include a brief description of each issue
+   under submission, the position of the parties, the findings of facts, the arbitrator’s
+   conclusion(s) as to the violation of the agreement, if any, and, where appropriate, a remedy.
 
 10. The University and the Union shall split the arbitrator’s and any related stenographer fees
     equally. Expenses for other services or facilities shall be borne by the party requesting
@@ -650,10 +639,8 @@ on their behalf.
 
 ### A. GENERAL ELIGIBILITY
 
-```
 To be eligible for reimbursement under this provision a Resident or Fellow must meet both of
 the following requirements:
-```
 
 1. The Resident or Fellow must be appointed through the Office of Graduate Medical
    Education in a residency or fellowship training program for the relevant academic year; and
@@ -940,11 +927,9 @@ partner, parent, parent- in-law, grandchild, grandparent, or sibling.
    receiving any additional paid leave benefits under this section, except for when (1) Caregiver
    and Medical Leave is taken concurrently with PDL, in which case, vacation leave is not
 
-```
 required to be used prior to paid leave under this Section C; or (2) bonding leave is taken
 concurrently with CFRA, in which case sick leave is not required to be used prior to paid leave
 under this Section C
-```
 
 a. If the Resident exhausts their accumulated sick leave and vacation leave and has not
 reached the six (6) week maximum under this section, the University will provide additional
@@ -1042,9 +1027,7 @@ days from the date the union is provided the orientation schedule, whichever is 
 up to three (3) union members shall be granted release time to attend the GME new
 resident orientation in accordance with this Article.
 
-```
 CIR National Convention
-```
 
 Upon advance request of no less than forty-five (45) calendar days, elected CIR delegates shall
 be granted release time to attend CIR’s annual convention.
@@ -1112,7 +1095,6 @@ receive a lump sum payment of $3,000.
 2. Effective July 1, 2023, the University shall be increased salaries by 5.0%
 3. Effective July 1, 2024, salaries shall be increased by 5.0%.
 
-```
 Housestaff Current 12/1/22 7/1/23 7/1/24
 PGY 1 $64,373.39 $75,125.79 $78,882.08 $82,826.19
 PGY 2 $66,507.06 $77,387.48 $81,256.86 $85,319.70
@@ -1124,11 +1106,8 @@ PGY 7 $80,148.15 $91,847.04 $96,439.39^ $101,261.36
 PGY 8 $84,366.00 $96,317.96 $101,133.86 $106,190.55
 PGY 9 $87,731.28 $99,885.16 $104,879.41^ $110,123.39^
 PGY 10 $91,218.04 $103,581.12 $108,760.18^ $114,198.19^
-```
 
-```
 Chiefs $200 Monthly Stipend
-```
 
 ## ARTICLE 32 SEVERABILITY
 
@@ -1296,7 +1275,6 @@ seeking indemnification.
 
 ## ARTICLE 37 VACATION
 
-```
 Vacation leave with compensation shall be four (4) seven-day workweeks per academic year.
 Vacation time does not accrue from year to year and must be scheduled and taken in the same
 academic year the vacation is earned. The total amount of vacation leaves due a Resident will
@@ -1313,7 +1291,6 @@ requests for specific dates or blocks of time by individual Residents, but all p
 that it may not always be possible to accommodate a Resident’s requests.
 Upon graduation or separation from a program, any unused vacation time will not carry over to
 any other University position but will be cashed out.
-```
 
 ## ARTICLE 38 WAIVER AND FUTURE CHANGES
 
@@ -1387,46 +1364,31 @@ By: Ned Burke
 
 Chief Negotiator
 
-```
 Date: February 7, 2023
-```
 
-```
 UC Davis Health By:
 Roderick D. Gaulman
 Chief Negotiator
 Roderick D. Gaulman
 Date: February 7, 2023
 Ryan Traynham
-```
 
-```
 By_______________________
 Melissa Matella,
 Associate Vice President,
 Systemwide Employee and Labor Relations
-```
 
-```
 Date:________________________________
-```
 
-```
 By _______________________
 Cheryl Lloyd,
 Vice President, Systemwide Human Resources
-```
 
-```
 Date:________________________________
-```
 
-```
 8/2/2023
-```
 
-```
 8/8/2023
-```
+
 
 
